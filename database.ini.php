@@ -1,4 +1,7 @@
 <?php
-$config = array("name"=>"li jia hua");
+$config = array(
+	"name"=>"li jia hua",
+	"address"=>"Green Street"
+);
 
 
